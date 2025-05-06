@@ -85,5 +85,4 @@ public class AntrianLayanan12 {
             data[rear].tampilkanData();
         }
     }
-    
 }
