@@ -119,5 +119,4 @@ public class AntrianKRS12 {
             System.out.println("Antrian berhasil dikosongkan");
         }
     }
-
 }
